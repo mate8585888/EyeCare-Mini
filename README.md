@@ -16,9 +16,7 @@
 
 ## 🚀 快速开始
 
-1.  **保存代码**：将脚本保存为 `EyeCare.ps1`。
-2.  **执行权限**：如果无法运行，请在 PowerShell 中执行 `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`。
-3.  **运行**：只需要点击一键运行.bat**。
+只需要下载压缩包，点击启动即可
 
 ---
 
